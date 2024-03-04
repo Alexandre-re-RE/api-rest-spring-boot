@@ -2,7 +2,6 @@ package com.example.springboottodoapiserver.controllers;
 
 import com.example.springboottodoapiserver.models.TodoItem;
 import com.example.springboottodoapiserver.repositories.TodoItemRepository;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import java.time.Instant;
